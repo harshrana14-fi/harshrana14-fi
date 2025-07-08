@@ -1,5 +1,4 @@
-<h1 align="left">Hi There 👋 , I am Harsh</h1>
-# 🚀 Hey there! I'm [Harsh Rana] 👋  
+<h1 align="left">Hi There 👋 , I am Harsh Jatoliya</h1>
 
 ## 💡 About Me  
 🎓 I'm a **1st-year BTech student** pursuing **Information Technology**.  
