@@ -1,4 +1,15 @@
 <h1 align="left">Hi There 👋 , I am Harsh</h1>
+# 🚀 Hey there! I'm [Harsh Rana] 👋  
+
+## 💡 About Me  
+🎓 I'm a **1st-year BTech student** pursuing **Information Technology**.  
+💻 Passionate about **coding, problem-solving, and exploring new technologies**.  
+🚀 Currently learning **DSA** and excited to dive into **Web Development, AI/ML, and Data analysis**!  
+
+Always exploring new ideas and **pushing boundaries** in tech! 🚀 
+
+> _"Code, Create, Innovate!"_ ✨
+
 
 <h3 align="center">A passionate Tech Explorer from India</h3>
 
