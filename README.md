@@ -57,7 +57,7 @@
 > React.js • AngularJS • Next.js • Tailwind CSS • Bootstrap  
 
 ### 🛠 Other Tools & Platforms
-> Git • Linux • Firebase • Figma • VS Code • API Integration • Deployment & CI/CD  
+> Git • Linux • Firebase • Mongodb •Figma • VS Code • API Integration • Deployment(Vercel/Render) & CI/CD  
 
 ---
 
