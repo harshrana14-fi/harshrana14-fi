@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/harsh-rana-13-fi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:harshjatoliya14@gmail.com">
+  <a href="mailto:jatoliyaharsh8@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
