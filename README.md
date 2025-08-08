@@ -1,7 +1,9 @@
-<h1 align="left">Hi There 👋 , I am Harsh Jatoliya</h1>
+<h1 align="centre">Hi There 👋 , I am Harsh Jatoliya</h1>
+<br/>
+Developer
 
 ## 💡 About Me  
-🎓 I'm a **1st-year BTech student** pursuing **Information Technology**.  
+🎓 I'm a **2nd-year BTech student** pursuing **Information Technology**.  
 💻 Passionate about **coding, problem-solving, and exploring new technologies**.  
 🚀 Currently learning **DSA** and excited to dive into **Web Development, AI/ML, and Data analysis**!  
 
