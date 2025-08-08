@@ -1,6 +1,6 @@
 <h1 align="centre">Hi There 👋 , I am Harsh Jatoliya</h1>
 <br/>
-Developer
+<h2 align="Centre"> Developer </h2>
 
 ## 💡 About Me  
 🎓 I'm a **2nd-year BTech student** pursuing **Information Technology**.  
