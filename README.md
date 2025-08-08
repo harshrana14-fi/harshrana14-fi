@@ -38,18 +38,31 @@
 <br/>
 
 ## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,php,ruby,rails,angular,tailwind,figma,firebase,git,linux,postman,vscode,bootstrap,redux" />
-</p>
 
 <p align="center">
-  <b>Full Stack & MERN Stack:</b> HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB, MySQL, Redux, Tailwind CSS, Bootstrap  
-  <br/>
-  <b>Backend & APIs:</b> Node.js, Express.js, PHP, Ruby, Ruby on Rails, REST APIs, Postman  
-  <br/>
-  <b>Frontend Frameworks:</b> React, AngularJS, Next.js  
-  <br/>
-  <b>Other Tools & Platforms:</b> Git, Linux, Firebase, Figma, VS Code  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,php,ruby,rails,angular,tailwind,figma,firebase,git,linux,postman,vscode,bootstrap,redux&perline=10" />
+</p>
+
+---
+
+### 💻 Full Stack & MERN Stack
+> HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express.js • MongoDB • MySQL • Redux • Tailwind CSS • Bootstrap  
+
+### ⚙️ Backend & APIs
+> Node.js • Express.js • PHP • Ruby • Ruby on Rails • REST API Development • Postman API Testing  
+
+### 🎨 Frontend Frameworks
+> React.js • AngularJS • Next.js • Tailwind CSS • Bootstrap  
+
+### 🛠 Other Tools & Platforms
+> Git • Linux • Firebase • Figma • VS Code • API Integration • Deployment & CI/CD  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20With-Love%20%26%20Logic-%23FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-%2300C4CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-AI%2FML-%23FFD700?style=for-the-badge" />
 </p>
 
 ---
