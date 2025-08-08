@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi There 👋, I'm Harsh Jatoliya ✨</h1>
-<h3 align="center">🚀 Full Stack & MERN Stack Developer | CTO @ <a href="https://nyagrik.com" target="_blank">Nyagrik.com</a> | Tech Explorer from India 🌏</h3>
+<h1 align="center"> Hi There 👋, I'm Harsh Jatoliya </h1>
+<h3 align="center"> Full Stack & MERN Stack Developer | CTO @ <a href="https://nyagrik.com" target="_blank">Nyagrik.com</a> | Tech Explorer from India 🌏</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7B6&center=true&vCenter=true&width=600&lines=Full+Stack+%26+MERN+Stack+Developer;AI%2FML+Enthusiast;CTO+%40+Nyagrik.com;Open+Source+Contributor;Tech+Explorer+%26+Innovator" alt="Typing SVG" />
