@@ -20,7 +20,7 @@
 
 ## 🌐 Portfolio & Socials  
 <p align="center">
-  <a href="https://my-portfolio-omega-nine-81.vercel.app/" target="_blank">
+  <a href="https://harsh-works.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-%2300f7b6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-rana-13-fi/" target="_blank">
