@@ -21,13 +21,13 @@
 ## 🌐 Portfolio & Socials  
 <p align="center">
   <a href="https://harsh-works.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%2300f7b6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23EA4335?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-rana-13-fi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jatoliyaharsh8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%2300f7b6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
