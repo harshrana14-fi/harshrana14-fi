@@ -11,7 +11,8 @@
 🎓 **2nd-year BTech IT Student** passionate about building impactful solutions.  
 💻 Skilled in **Full Stack Development** & specialized in **MERN Stack**.  
 🤖 Currently exploring **AI/ML**, **Data Science**, and **cutting-edge tech trends**.  
-🚀 Former Chief Technology Officer at [StylCop](https://stylcop.com) – a startup driving innovation for a better tomorrow. 
+🚀 Former <strong>Chief Technology Officer</strong> at 
+<a href="https://stylcop.com" target="_blank" rel="noopener noreferrer">StylCop</a> – a startup driving innovation for a better tomorrow.
 💡 I thrive on **problem-solving**, **innovating**, and turning ideas into reality.  
 
 > _"Code. Create. Innovate."_ ✨
