@@ -49,13 +49,13 @@
 ---
 
 ### 💻 Full Stack & MERN Stack
-> HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express.js • MongoDB • MySQL • Redux • Tailwind CSS • Bootstrap  
+> HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express.js • MongoDB • MySQL • Tailwind CSS   
 
 ### ⚙️ Backend & APIs
 > Node.js • Express.js • PHP • Ruby • Ruby on Rails • REST API Development • Postman API Testing  
 
 ### 🎨 Frontend Frameworks
-> React.js • AngularJS • Next.js • Tailwind CSS • Bootstrap  
+> React.js • AngularJS • Next.js • Tailwind CSS   
 
 ### 🛠 Other Tools & Platforms
 > Git • Linux • Firebase • Mongodb •Figma • VS Code • API Integration • Deployment(Vercel/Render) & CI/CD  
