@@ -52,10 +52,7 @@
 > HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express.js • MongoDB • MySQL • Tailwind CSS   
 
 ### ⚙️ Backend & APIs
-> Node.js • Express.js • PHP • Ruby • Ruby on Rails • REST API Development • Postman API Testing  
-
-### 🎨 Frontend Frameworks
-> React.js • AngularJS • Next.js • Tailwind CSS   
+> Node.js • Express.js • PHP • REST API Development • Postman API Testing  
 
 ### 🛠 Other Tools & Platforms
 > Git • Linux • Firebase • Mongodb •Figma • VS Code • API Integration • Deployment(Vercel/Render) & CI/CD  
