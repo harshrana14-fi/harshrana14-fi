@@ -21,7 +21,7 @@
 
 ## 🌐 Portfolio & Socials  
 <p align="center">
-  <a href="https://harsh-works.vercel.app/" target="_blank">
+  <a href="[https://harshcodes.xyz/](https://www.harshcodes.xyz/)" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-%23EA4335?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-rana-13-fi/" target="_blank">
